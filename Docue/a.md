@@ -55,3 +55,10 @@ Love has park cross.
 Love has major.
 
 Love is stable base.
+
+Love word has spell.
+The spell is:
+"L" for Land Class.
+"o" for offer marry.
+"v" for vary effect.
+"e" for emit good.
