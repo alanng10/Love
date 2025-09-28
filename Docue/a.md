@@ -56,6 +56,8 @@ Love has major.
 
 Love is stable base.
 
+Love is most stable base.
+
 Love word has spell.
 The spell is:
 "L" for Land Class.
