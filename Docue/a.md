@@ -53,3 +53,5 @@ Love has park mark.
 Love has park cross.
 
 Love has major.
+
+Love is stable base.
