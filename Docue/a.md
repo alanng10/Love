@@ -60,7 +60,7 @@ Love is most stable base.
 
 Love is most stable result.
 
-Love is most good gain.
+Love gain is Good.
 
 Love love is most love.
 
