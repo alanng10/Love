@@ -64,7 +64,7 @@ Love gain is Good.
 
 Love word has spell.
 The spell is:
-"L" for Land Marry.
+"L" for Land Mary.
 "o" for offer kind.
 "v" for vary effect.
 "e" for emit good.
