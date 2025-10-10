@@ -62,8 +62,6 @@ Love is most stable result.
 
 Love gain is Good.
 
-Love love is most love.
-
 Love word has spell.
 The spell is:
 "L" for Land Class.
