@@ -60,7 +60,7 @@ Love is most stable base.
 
 Love is most stable result.
 
-Love gain is Good. 
+Love gain is Good.
 
 Love word has spell.
 The spell is:
