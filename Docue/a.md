@@ -54,7 +54,7 @@ Love has park cross.
 
 Love has major.
 
-Love is stable base. 
+Love is stable base.
 
 Love gain is Good.
 
